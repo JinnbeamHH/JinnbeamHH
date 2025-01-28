@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 Willkommen auf meinem GitHub-Portfolio! 🚀
 
-Ich bin Benjamin S., ein Fullstack-Webentwickler mit Schwerpunkt auf dem MERN-Stack (MongoDB, Express.js, React, Node.js) und umfassender Erfahrung in modernen Webtechnologien. 
-Mein Ziel ist es, innovative Lösungen zu entwickeln und dabei Technologien effizient zu kombinieren. Hier findest du eine Übersicht meiner wichtigsten Fähigkeiten.
-
 
 ## ⚙️ Technische Skills
 
