@@ -23,7 +23,7 @@ E-Commerce Seite wird gerade aufpoliert.
 
 Momentan offen für Open Source Projektanfragen per angegebenen Mail auch für befristete Maintenance.
 
-Derzeit Verfügbare Repos sind meine Anfänge und das Abschlussprojekt aus der Weiterbildung.
+Verfügbare Repos sind meine Anfänge und das Abschlussprojekt aus der Weiterbildung.
 
 
 ## ⚙️ Technische Skills
