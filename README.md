@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 
 Willkommen auf meinem GitHub-Portfolio! 🚀
 
-Derzeit Arbeite ich mit einem Kollegen an einer Kommunkations App mit Java Spring Backend und Vite React Typescript Frontend mit Nutzung so gut wie aller unten genannten Fähigkeiten. 
-
-E-Commerce Seite wird gerade aufpoliert.
-
-Momentan offen für Open Source Projektanfragen per angegebenen Mail auch für befristete Maintenance.
-
-Verfügbare Repos sind meine Anfänge und das Abschlussprojekt aus der Weiterbildung.
-
 
 ## ⚙️ Technische Skills
 
