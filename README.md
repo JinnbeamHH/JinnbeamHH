@@ -63,8 +63,8 @@ Welcome on my GitHub-Portfolio! 🚀
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge)
 
 ### 🛠️ **Softskills**
-![Agiles Projektmanagement](https://img.shields.io/badge/-Agiles%20Projektmanagement-0078D7?style=for-the-badge)
-![Projektentwicklung](https://img.shields.io/badge/-Projektentwicklung-4CAF50?style=for-the-badge)
-![Teamorganisation](https://img.shields.io/badge/-Teamorganisation-FF5722?style=for-the-badge)
+![Agile Projectmanagement](https://img.shields.io/badge/-Agiles%20Projektmanagement-0078D7?style=for-the-badge)
+![Projectdevelopement and Maintanance](https://img.shields.io/badge/-Projektentwicklung-4CAF50?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/-Teamorganisation-FF5722?style=for-the-badge)
 
 
