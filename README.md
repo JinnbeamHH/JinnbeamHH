@@ -59,11 +59,11 @@ Willkommen auf meinem GitHub-Portfolio! 🚀
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge)
 
-### 🛠️ **Weitere Kompetenzen**
+### 🛠️ **Softskills**
 ![Agiles Projektmanagement](https://img.shields.io/badge/-Agiles%20Projektmanagement-0078D7?style=for-the-badge)
 ![Projektentwicklung](https://img.shields.io/badge/-Projektentwicklung-4CAF50?style=for-the-badge)
 ![Teamorganisation](https://img.shields.io/badge/-Teamorganisation-FF5722?style=for-the-badge)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge)
 
 
