@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Willkommen auf meinem GitHub-Portfolio! 🚀
+Welcome on my GitHub-Portfolio! 🚀
 
 
-## ⚙️ Technische Skills
+
+## ⚙️ Technical Skills
 
 ### 🌐 **Frontend**
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
@@ -38,13 +39,13 @@ Willkommen auf meinem GitHub-Portfolio! 🚀
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-000?logo=websocket&logoColor=white&style=for-the-badge)
 
-### ☁️ **Cloud & Infrastruktur**
+### ☁️ **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
-### 💾 **Datenbanken**
+### 💾 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
@@ -55,7 +56,7 @@ Willkommen auf meinem GitHub-Portfolio! 🚀
 ![bcrypt](https://img.shields.io/badge/-bcrypt-000?logo=bcrypt&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/-JWT-000?logo=json-web-tokens&logoColor=white&style=for-the-badge)
 
-### 💻 **Weitere Technologien**
+### 💻 **Other Technologys**
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
