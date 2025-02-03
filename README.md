@@ -66,6 +66,4 @@ Willkommen auf meinem GitHub-Portfolio! 🚀
 ![Teamorganisation](https://img.shields.io/badge/-Teamorganisation-FF5722?style=for-the-badge)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge)
 
-Falls du mehr erfahren möchtest oder eine Kooperationsanfrage stellen möchtest: [kontaktiere mich!](mailto:jinnzo999@gmail.com) .
-
 
