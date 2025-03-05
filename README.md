@@ -30,7 +30,7 @@ Ich freue mich immer, von anderen Entwicklern zu lernen und neue Ideen auszutaus
 
 👋 Hey, ich bin Benjamin – Entwickler, Problemlöser und Kaffeekonsum-Enthusiast, wenn's drauf ankommt! ☕️
 
-Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln und ständig dazu zu lernen. Hier findest du eine Sammlung meiner Projekte, Code-Schnipsel und technischen Experimente.
+Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln und ständig dazu zu lernen. Hier findest du eine Sammlung meiner Projekte, Code-Schnipsel, technischen Experimente und Kooperationen.
 
 ---
 
