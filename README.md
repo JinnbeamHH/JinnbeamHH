@@ -14,18 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 Willkommen auf meinem GitHub-Portfolio!
+# 🚀 Willkommen auf meinem GitHub-Portfolio!
+
+
 👋 Hey! Ich bin Benjamin – Entwickler, Problemlöser und Kaffeekonsum-Enthusiast wenns drauf ankommt.
+
+
 Hier findest du meine Sammlung von Projekten, Code-Schnipseln und Experimenten.
 
-💡 Was dich hier erwartet:
-✅ Innovative Projekte – Von Web-Apps bis zu Open-Source-Tools
-✅ Sauberer Code – (Zumindest meistens 😅)
 
 # 👨‍💻 Mein Portfolio
 ## 🛠 Technologien
-- Java-/TypeScript | Node.js | Scss | HTML
-- React | Node.js | Express | MySQL
+- MERN Stack
+- Java-/Typescript | CSS/SCSS | HTML
+- Node.js | Websockets | RESTFUL-API
+- React | Express | MySQL
+- AWS | Docker
 ## 📂 Projekte
 ### 🚀 Apps
 Connex - Kommunikationsplattform | 🌱 in Bearbeitung
