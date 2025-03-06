@@ -54,7 +54,7 @@ Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln 
 **Technologien:**  
 - **Backend:** C# | ASP.NET Core | SignalR (Echtzeit-Kommunikation)  
 - **Frontend:** React | TypeScript | TailwindCSS  
-- **Datenbank:** PostgreSQL  
+- **Datenbank:** SQLite | SQL Server Express
 - **Cloud:** AWS (S3 für Dateispeicherung)  
 - **Weitere:** Docker, JWT, bcrypt, WebSocket  
 
