@@ -55,17 +55,8 @@ Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln 
 Connex ist eine Kommunikationsplattform, die sowohl Echtzeit-Chat als auch Sprach- und Videoübertragungen ermöglicht. Nutzer können sich registrieren, miteinander chatten, Dateien hochladen und Benachrichtigungen erhalten. Das Projekt wird kontinuierlich weiterentwickelt und hat zum Ziel, eine skalierbare und sichere Lösung für Online-Kommunikation zu bieten.
 
 - 📅 **Status:** In aktiver Entwicklung
-- 📝 **Ziele:** Verbesserung der Benutzererfahrung, Integration von Video-Chat und Rollensystem
-- 🚀 **Nächste Schritte:** Implementierung von Video-Übertragung und Verfeinerung der Benutzeroberfläche
-
----
-
-### 📜 **Weitere Projekte:**
-
-#### 📷 **ImageVault - Bildverwaltung und Speicherung**  *aktuell privat*
-*Technologien:* React, Node.js  
-ImageVault ermöglicht das Hochladen und Organisieren von Bildern in der Cloud. Es unterstützt Tagging, Kategorien und eine benutzerfreundliche Oberfläche, um Bilder schnell zu durchsuchen.
-
+- 📝 **Ziele:** Verbesserung der Benutzererfahrung, Integration von Video-Chat und Rollensystem, Integration und Verbindung vom Backend.
+- 🚀 **Nächste Schritte:** Implementierung von Video-Übertragung und Verfeinerung der Benutzeroberfläche.
 
 
 ---
