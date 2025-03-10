@@ -58,12 +58,18 @@ Connex ist eine Kommunikationsplattform, die sowohl Echtzeit-Chat als auch Sprac
 - 📝 **Ziele:** Verbesserung der Benutzererfahrung, Integration von Video-Chat und Rollensystem
 - 🚀 **Nächste Schritte:** Implementierung von Video-Übertragung und Verfeinerung der Benutzeroberfläche
 
+### 🚀 **Pixelwars - R/place eigener Ableger** *In Bearbeitung*
+
+**Beschreibung:**
+
 ---
 
 ### 📜 **Weitere Projekte:**
 
-#### 📷 **ImageVault - Bildverwaltung und Speicherung**  
+#### 📷 **ImageVault - Bildverwaltung und Speicherung**  *aktuell privat*
 *Technologien:* React, Node.js  
 ImageVault ermöglicht das Hochladen und Organisieren von Bildern in der Cloud. Es unterstützt Tagging, Kategorien und eine benutzerfreundliche Oberfläche, um Bilder schnell zu durchsuchen.
+
+
 
 ---
