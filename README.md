@@ -49,14 +49,7 @@ Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln 
 
 ## 📂 **Projekte**
 
-### 🚀 **Connex - Kommunikationsplattform** 🌱 *In Bearbeitung*
-
-**Technologien:**  
-- **Backend:** C# | ASP.NET Core | SignalR (Echtzeit-Kommunikation)  
-- **Frontend:** React | TypeScript | TailwindCSS  
-- **Datenbank:** SQLite | SQL Server Express
-- **Cloud:** AWS (S3 für Dateispeicherung)  
-- **Weitere:** Docker, JWT, bcrypt, WebSocket  
+### 🚀 **Connex - Kommunikationsplattform** *In Bearbeitung*
 
 **Beschreibung:**  
 Connex ist eine Kommunikationsplattform, die sowohl Echtzeit-Chat als auch Sprach- und Videoübertragungen ermöglicht. Nutzer können sich registrieren, miteinander chatten, Dateien hochladen und Benachrichtigungen erhalten. Das Projekt wird kontinuierlich weiterentwickelt und hat zum Ziel, eine skalierbare und sichere Lösung für Online-Kommunikation zu bieten.
