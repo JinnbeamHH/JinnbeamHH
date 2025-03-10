@@ -37,10 +37,10 @@ Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln 
 ## 👨‍💻 **Mein Portfolio**
 
 ### 🛠 **Technologien, mit denen ich arbeite:**
-- **Backend:** C#, Node.js | Express
+- **Backend:** Node.js | Express.js
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
-- **Datenbanken:** MongoDB | SQLite | SQL Server Express
-- **Frameworks & Libraries:** .NET, MERN Stack, WebSockets, RESTful API
+- **Datenbanken:** MongoDB
+- **Frameworks & Libraries:** WebSockets, RESTful API
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Authentifizierung & Sicherheit:** JWT, OAuth, bcrypt
 - **Tools:** Git, GitHub, Webpack, Vite, Cypress
@@ -57,10 +57,6 @@ Connex ist eine Kommunikationsplattform, die sowohl Echtzeit-Chat als auch Sprac
 - 📅 **Status:** In aktiver Entwicklung
 - 📝 **Ziele:** Verbesserung der Benutzererfahrung, Integration von Video-Chat und Rollensystem
 - 🚀 **Nächste Schritte:** Implementierung von Video-Übertragung und Verfeinerung der Benutzeroberfläche
-
-### 🚀 **Pixelwars - R/place eigener Ableger** *In Bearbeitung*
-
-**Beschreibung:**
 
 ---
 
