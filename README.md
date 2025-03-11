@@ -39,7 +39,7 @@ Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln 
 ### 🛠 **Technologien, mit denen ich arbeite:**
 - **Backend:** Node.js | Express.js
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
-- **Datenbanken:** MongoDB
+- **Datenbanken:** MySQL, MongoDB
 - **Frameworks & Libraries:** WebSockets, RESTful API
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Authentifizierung & Sicherheit:** JWT, OAuth, bcrypt
