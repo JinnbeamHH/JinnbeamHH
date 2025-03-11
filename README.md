@@ -49,14 +49,18 @@ Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln 
 
 ## 📂 **Projekte**
 
-### 🚀 **Connex - Kommunikationsplattform** *In Bearbeitung*
+### 🚀 **Connex - Kommunikationsplattform** 
+
+*In Bearbeitung*
 
 - 📅 **Status:** In aktiver Entwicklung
 - 📝 **Ziele:** Verbesserung der Benutzererfahrung, Integration von Video-Chat und Rollensystem, Integration und Verbindung vom Backend.
 - 🚀 **Nächste Schritte:** Implementierung von Video-Übertragung und Verfeinerung der Benutzeroberfläche.
 
 
-### 🚀 Pixelwars - Multiplayer Canvas Battle Weiterbildungsabschlussteamprojekt *Letzter Schliff und Cleanup*
+### 🚀 Pixelwars - Multiplayer Canvas Battle Weiterbildungsabschlussteamprojekt
+
+*Letzter Schliff und Cleanup*
 
 **Status:** Abgeschlossen
 **Ziele:**: Cleanup und Aufwertung von überflüssigem und veraltetem Code dann Open Source Launch
