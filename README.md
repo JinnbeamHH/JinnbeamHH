@@ -57,14 +57,4 @@ Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln 
 -  **Ziele:** Verbesserung der Benutzererfahrung, Integration von Video-Chat und Rollensystem, Integration und Verbindung vom Backend.
 -  **Nächste Schritte:** Implementierung von Video-Übertragung und Verfeinerung der Benutzeroberfläche.
 
-
-### 🚀 Pixelwars - Multiplayer Canvas Battle Weiterbildungsabschlussteamprojekt
-
-*Letzter Schliff und Cleanup*
-
-- **Status:** Abgeschlossen
-- **Ziele:**: Cleanup und Aufwertung von überflüssigem und veraltetem Code dann Open Source Launch
-- **Features**: Multiplayer-Echtzeitinteraktion, Authentifizierung via JWT & OAuth2, Benutzerstatistiken, Pixel-Cooldowns zur fairen Verteilung
-- **Mögliche Erweiterungen:** Leaderboard, Clansystem, erweiterte Benutzerprofile
-
 ---
