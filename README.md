@@ -28,7 +28,7 @@ Ich freue mich immer, von anderen Entwicklern zu lernen und neue Ideen auszutaus
 -->
 # 🚀 **Willkommen auf meinem GitHub-Portfolio!**
 
-👋 Hey, ich bin Benjamin – Entwickler, Problemlöser und Kaffeekonsum-Enthusiast, wenn's drauf ankommt! ☕️
+👋 Hey, ich bin Benjamin – Fullstack Web und Softwareentwickler.
 
 Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln und ständig dazu zu lernen. Hier findest du eine Sammlung meiner Projekte, Code-Schnipsel, technischen Experimente und Kooperationen.
 
