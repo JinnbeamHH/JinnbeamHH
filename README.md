@@ -37,7 +37,7 @@ Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln 
 ## 👨‍💻 **Mein Portfolio**
 
 ### 🛠 **Technologien, mit denen ich arbeite:**
-- **Backend:** Node.js | Express.js
+- **Backend:** Node.js | Express.js | Django | Python
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
 - **Datenbanken:** MySQL, MongoDB
 - **Frameworks & Libraries:** WebSockets, RESTful API
