@@ -1,60 +1,43 @@
+# 🚀 **Welcome to My GitHub Portfolio!**
 
-<!--
-## Hi there 👋
-**JinnNexus/JinnNexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Benjamin – a Fullstack Web and Software Developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## 📈 **Warum mein GitHub besuchen?**
-
-Hier findest du:
-- **Code-Schnipsel**: Praktische Codebeispiele, die dir bei der Lösung häufiger Programmierprobleme helfen könnten.
-- **Projekte**: Funktionsreiche Anwendungen, die zeigen, wie ich verschiedene Technologien kombiniere, um skalierbare und benutzerfreundliche Lösungen zu schaffen.
-- **Experimente**: Innovative Ideen, die ich ausprobieren möchte, um neue Technologien und Ansätze zu verstehen.
+I’m passionate about crafting innovative solutions and constantly learning new things. Here, you’ll find a collection of my projects, code snippets, technical experiments, and collaborations. Feel free to explore and get inspired!
 
 ---
 
-### 📬 **Lass uns connecten!**  
-Ich freue mich immer, von anderen Entwicklern zu lernen und neue Ideen auszutauschen. Du kannst mich über [LinkedIn](#) oder [Twitter](#) erreichen!
--->
-# 🚀 **Willkommen auf meinem GitHub-Portfolio!**
+## 👨‍💻 **My Portfolio**
 
-👋 Hey, ich bin Benjamin – Fullstack Web und Softwareentwickler.
+### 🛠 **Technologies I Work With:**
 
-Ich bin leidenschaftlich daran interessiert, innovative Lösungen zu entwickeln und ständig dazu zu lernen. Hier findest du eine Sammlung meiner Projekte, Code-Schnipsel, technischen Experimente und Kooperationen.
-
----
-
-## 👨‍💻 **Mein Portfolio**
-
-### 🛠 **Technologien, mit denen ich arbeite:**
 - **Backend:** Node.js | Express.js | Django | Python
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
-- **Datenbanken:** MySQL, MongoDB
+- **Databases:** MySQL, MongoDB
 - **Frameworks & Libraries:** WebSockets, RESTful API
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
-- **Authentifizierung & Sicherheit:** JWT, OAuth, bcrypt
+- **Authentication & Security:** JWT, OAuth, bcrypt
 - **Tools:** Git, GitHub, Webpack, Vite, Cypress
+- **Fitness-Tracker-App Specific:** React Native, Expo, Redux, SQLite, Chart.js
 
 ---
 
-## 📂 **Projekte**
+## 📂 **Projects**
 
-### 🚀 **Connex - Kommunikationsplattform** 
+### 🚀 **Connex - Communication Platform**
 
-*In Bearbeitung*
+_Work in Progress_
 
--  **Status:** In aktiver Entwicklung
--  **Ziele:** Verbesserung der Benutzererfahrung, Integration von Video-Chat und Rollensystem, Integration und Verbindung vom Backend.
--  **Nächste Schritte:** Implementierung von Video-Übertragung und Verfeinerung der Benutzeroberfläche.
+- **Status:** Actively in development
+- **Goals:** Enhance user experience, integrate video chat and role-based systems, and connect the backend seamlessly.
+- **Next Steps:** Implement video streaming and refine the user interface.
 
 ---
+
+### 🏋️ **Fitness Tracker - Your Personal Fitness Companion**
+
+_Still 'training' the App_
+
+- **Status:** Workout Code
+- **Features:** Track workouts, monitor progress with interactive charts, and manage fitness goals.
+- **Technologies:** Built with React Native, Expo, Redux for state management, MySQL for data storage, and Chart.js for visualizing progress.
+- **Fun Fact:** It’s like having a personal trainer in your pocket—minus the yelling!
