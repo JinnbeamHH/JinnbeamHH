@@ -1,8 +1,8 @@
 # 🚀 **Welcome to My GitHub Portfolio!**
 
-👋 Hi, I’m Benjamin – a Fullstack Web and Software Developer.
+👋 Hi, I’m Benjamin – a Fullstack Web and Software Developer and ongoing Data Engineer.
 
-I’m passionate about crafting innovative solutions and constantly learning new things. Here, you’ll find a collection of my projects, code snippets, technical experiments, and collaborations. Feel free to explore and get inspired!
+I’m passionate about crafting innovative solutions and constantly learning new things. Here, you’ll find a collection of my projects, code snippets, technical experiments, and collaborations. Feel free to explore and get inspired! 
 
 ---
 
@@ -41,3 +41,5 @@ _Still 'training' the App_
 - **Features:** Track workouts, monitor progress with interactive charts, and manage fitness goals.
 - **Technologies:** Built with React Native, Expo, Redux for state management, MySQL for data storage, and Chart.js for visualizing progress.
 - **Fun Fact:** It’s like having a personal trainer in your pocket—minus the yelling!
+
+### Some Datapipeline and Search Engine Trainings and Tests with Python
