@@ -16,8 +16,7 @@ I’m passionate about crafting innovative solutions and constantly learning new
 - **Frameworks & Libraries:** WebSockets, RESTful API
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Authentication & Security:** JWT, OAuth, bcrypt
-- **Tools:** Git, GitHub, Webpack, Vite, Cypress
-- **Fitness-Tracker-App Specific:** React Native, Expo, Redux, SQLite, Chart.js
+- **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL
 
 ---
 
