@@ -10,7 +10,7 @@ I’m passionate about crafting innovative solutions and constantly learning new
 
 ### 🛠 **Technologies I Work With:**
 
-- **Backend:** Node.js | Express.js | Django | Python
+- **Backend:** Node.js | Express.js | Django | Python | Pandas
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
 - **Databases:** MySQL, MongoDB
 - **Frameworks & Libraries:** WebSockets, RESTful API
