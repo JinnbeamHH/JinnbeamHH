@@ -1,44 +1,91 @@
-# 🚀 **Welcome to My GitHub Portfolio!**
+# 🚀 Welcome to My GitHub Portfolio
 
-👋 Hi, I’m Benjamin – a Fullstack Web and Software Developer and ongoing Data Engineer.
+Hi, I'm **Benjamin** – a Fullstack Web and Software Developer with a growing focus on **Data Engineering**.
 
-I’m passionate about crafting innovative solutions and constantly learning new things. Here, you’ll find a collection of my projects, code snippets, technical experiments, and collaborations. Feel free to explore and get inspired! 
+I'm passionate about building scalable systems, exploring data pipelines, and constantly learning. This GitHub is a collection of projects, experiments, and ideas that reflect my journey in both software and data engineering. Feel free to dive in, explore, and reuse anything useful!
 
 ---
 
-## 👨‍💻 **My Portfolio**
+## 👨‍💻 Technologies I Work With
 
-### 🛠 **Technologies I Work With:**
-
-- **Backend:** Node.js | Express.js | Django | Python | Pandas
+- **Backend:** Node.js, Express.js, Django, Python, Pandas
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
 - **Databases:** MySQL, MongoDB
-- **Frameworks & Libraries:** WebSockets, RESTful API
+- **Frameworks & Libraries:** WebSockets, RESTful APIs
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Authentication & Security:** JWT, OAuth, bcrypt
-- **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL
+- **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL Pipelines
 
 ---
 
-## 📂 **Projects**
+## 📂 Projects
 
-### 🚀 **Connex - Communication Platform**
+### 🧩 Pipeline Visualizer
 
-_Work in Progress_
+**A Streamlit-based tool to design, visualize, and simulate ETL pipelines using YAML configs.**
 
-- **Status:** Actively in development
-- **Goals:** Enhance user experience, integrate video chat and role-based systems, and connect the backend seamlessly.
-- **Next Steps:** Implement video streaming and refine the user interface.
+- Configuration-driven pipeline design
+- DAG visualization using NetworkX + PyVis
+- Step-by-step ETL simulation with mocked processing
+- Lightweight and fully local—just run and go
+
+**Repo:** [pipeline-visualizer](https://github.com/HanseJinn/pipeline-visualizer)
 
 ---
 
-### 🏋️ **Fitness Tracker - Your Personal Fitness Companion**
+### 📈 Crypto Dashboard
 
-_Still 'training' the App_
+**An ETL and analytics dashboard for real-time cryptocurrency tracking.**
 
-- **Status:** Workout Code
-- **Features:** Track workouts, monitor progress with interactive charts, and manage fitness goals.
-- **Technologies:** Built with React Native, Expo, Redux for state management, MySQL for data storage, and Chart.js for visualizing progress.
-- **Fun Fact:** It’s like having a personal trainer in your pocket—minus the yelling!
+- Collects data from external APIs
+- Processes with Pandas
+- Displays analytics in a user-friendly dashboard
+- Great example of data ingestion + transformation
 
-### Some Datapipeline and Search Engine Trainings and Tests with Python
+**Repo:** [crypto-dashboard](https://github.com/HanseJinn/crypto-dashboard)
+
+---
+
+### 🏋️ Fitness Tracker App
+
+**Your personal fitness companion—currently in training mode.**
+
+- Built with React Native and Expo
+- Tracks workouts, progress, and goals
+- Uses MySQL and Redux for storage and state
+- Interactive charts powered by Chart.js
+
+**Repo:** [Fitness-Tracker-App](https://github.com/HanseJinn/Fitness-Tracker-App)
+
+---
+
+### 🎮 Hangman Game
+
+**A classic Hangman game built with vanilla JavaScript.**
+
+- Great little frontend challenge
+- No frameworks—just JS, HTML, and CSS
+- Fun way to demonstrate core logic and DOM manipulation
+
+**Repo:** [Hangman](https://github.com/HanseJinn/Hangman)
+
+---
+
+## 🧪 Data Engineering Experiments
+
+Beyond the structured projects, I've also built small tools and conducted tests around:
+
+- Custom search engines
+- File ingestion and preprocessing
+- Streamlit data tools
+- JSON/YAML-driven workflow orchestration
+
+These aren’t always flashy, but they showcase the hands-on problem-solving mindset crucial in data engineering.
+
+---
+
+## 🤝 Let's Connect
+
+Open to collaborations, contributions, and conversations—whether it's about pipelines, fullstack apps, or cool tech ideas. If something here catches your eye, don’t hesitate to reach out!
+
+---
