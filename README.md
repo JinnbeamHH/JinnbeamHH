@@ -71,6 +71,26 @@ I'm passionate about building scalable systems, exploring data pipelines, and co
 
 ---
 
+### 💬 Connex – Real-Time Communication Platform
+
+**A fullstack messaging app inspired by platforms like Discord—designed for seamless real-time communication.**
+
+- Built with **Node.js**, **Express.js**, and **WebSockets** for live chat  
+- **React** frontend styled with **TailwindCSS** and **Shadcn**  
+- Features include user authentication, channels, and message history  
+- Real-time updates via **Socket.IO** for instant messaging  
+- Scalable backend architecture with **Docker** and **REST APIs**
+
+**Why it matters for Data Engineering:**
+
+- Showcases skills in **real-time data handling** and **event-driven architecture**  
+- Lays the foundation for implementing **message logging**, **analytics**, or **data streaming**  
+- Demonstrates **fullstack development**, crucial for understanding end-to-end data flow
+
+**Repo:** [Connex](https://github.com/HanseJinn/Connex)
+
+---
+
 ## 🧪 Data Engineering Experiments
 
 Beyond the structured projects, I've also built small tools and conducted tests around:
