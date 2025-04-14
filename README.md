@@ -8,10 +8,10 @@ I'm passionate about building scalable systems, exploring data pipelines, and co
 
 ## 👨‍💻 Technologies I Work With
 
-- **Backend:** Node.js, Express.js, Django, Python, Pandas
+- **Backend:** Node.js, Express.js, Django, Python
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
 - **Databases:** MySQL, MongoDB
-- **Frameworks & Libraries:** WebSockets, RESTful APIs
+- **Frameworks & Libraries:** WebSockets, RESTful APIs, Anaconda (Pandas,SciPy,NumPy)
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Authentication & Security:** JWT, OAuth, bcrypt
 - **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL Pipelines
