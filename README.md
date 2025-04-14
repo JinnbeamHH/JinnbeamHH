@@ -15,6 +15,7 @@ I'm passionate about building scalable systems, exploring data pipelines, and co
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Authentication & Security:** JWT, OAuth, bcrypt
 - **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL Pipelines
+- **IDE´s:** Visual Studio Code, Jupyter Notebook
 
 ---
 
