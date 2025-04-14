@@ -14,7 +14,7 @@ I'm passionate about building scalable systems, exploring data pipelines, and co
 - **Frameworks & Libraries:** WebSockets, RESTful APIs, Anaconda (Pandas,SciPy,NumPy)
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Authentication & Security:** JWT, OAuth, bcrypt
-- **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL Pipelines
+- **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL Pipelines, ChatGPT, Docs(PyPi,Tailwind etc.)
 - **IDE´s:** Visual Studio Code, Jupyter Notebook
 
 ---
