@@ -82,12 +82,6 @@ I'm passionate about building scalable systems, exploring data pipelines, and co
 - Real-time updates via **Socket.IO** for instant messaging  
 - Scalable backend architecture with **Docker** and **REST APIs**
 
-**Why it matters for Data Engineering:**
-
-- Showcases skills in **real-time data handling** and **event-driven architecture**  
-- Lays the foundation for implementing **message logging**, **analytics**, or **data streaming**  
-- Demonstrates **fullstack development**, crucial for understanding end-to-end data flow
-
 **Repo:** [Connex](https://github.com/HanseJinn/Connex)
 
 ---
