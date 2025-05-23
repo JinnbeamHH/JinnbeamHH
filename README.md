@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Portfolio
 
-Hi, I'm **Benjamin** – a Fullstack Web and Software Developer with a growing focus on **Data Analytics and Engineering**.
+Hi, I'm **Benjamin** u can call me **Benni** – a Fullstack Web and Software Developer with a focus on **Data Analytics and Engineering** and **Big Data**.
 
 I'm passionate about building scalable systems, exploring data pipelines, and constantly learning. This GitHub is a collection of projects, experiments, and ideas that reflect my journey in both software and data engineering. Feel free to dive in, explore, and reuse anything useful!
 
