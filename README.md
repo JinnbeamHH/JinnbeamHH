@@ -87,7 +87,7 @@ The Projects are mostly made for practical education. And Connex for personal us
 
 ---
 
-## 🧪 Data Engineering Experiments
+## 🧪 Data Engineering + Analytics Experiments
 
 Beyond the structured projects, I've also built small tools and conducted tests around:
 
@@ -96,12 +96,6 @@ Beyond the structured projects, I've also built small tools and conducted tests 
 - Streamlit data tools
 - JSON/YAML-driven workflow orchestration
 
-These aren’t always flashy, but they showcase the hands-on problem-solving mindset crucial in data engineering.
-
 ---
 
-## 🤝 Let's Connect
-
-Open to collaborations, contributions, and conversations—whether it's about pipelines, fullstack apps, or tech ideas. If something here catches your eye, don’t hesitate to reach out!
-
----
+Enjoy your day!
