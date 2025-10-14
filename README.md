@@ -2,7 +2,7 @@
 
 Hi, I'm **Benjamin** – a Fullstack Web and Software Developer with a focus on **Data Analytics and Engineering** and **Big Data**.
 
-I'm passionate about building scalable systems, exploring data pipelines, and constantly learning. This GitHub is a collection of projects, experiments, and ideas that reflect my journey in both software and data engineering. Feel free to dive in, explore, and reuse anything useful!
+I'm passionate about building scalable systems, exploring data pipelines Stats and Web Related IT things, and constantly learning. This GitHub is a collection of projects, experiments, and ideas that reflect my journey in both software and data engineering. Feel free to dive in, explore, and reuse anything useful!
 
 The Projects are mostly made for practical education. And Connex for personal usage.
 
