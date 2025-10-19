@@ -10,7 +10,7 @@ The Projects are mostly made for practical education and for personal usage.
 
 ## 👨‍💻 Technologies I Work With
 
-- **Backend:** Node.js, Express.js, Django, Python
+- **Backend:** Node.js, Express.js, Django, Python, Java, Spring
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
 - **Databases:** MySQL, MongoDB, SQLite
 - **Frameworks & Libraries:** WebSockets, RESTful APIs, Anaconda (Pandas,SciPy,NumPy)
