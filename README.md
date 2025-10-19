@@ -76,16 +76,6 @@ The Projects are mostly made for practical education and for personal usage.
 
 ---
 
-### 🎮 Hangman Game
-
-**A classic Hangman game built with vanilla JavaScript and Node.js.**
-
-- No frameworks—just JS and Node.js
-- Playaround with core logic and DOM manipulation
-
-**Repo:** [Hangman](https://github.com/HanseJinn/Hangman)
-
----
 
 ## 🧪 Data Engineering + Analytics Experiments
 
