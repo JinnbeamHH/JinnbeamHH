@@ -13,7 +13,7 @@ The Projects are mostly made for practical education and for personal usage.
 - **Backend:** Node.js, Express.js, Java, Spring Boot
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
 - **Databases:** MySQL, MongoDB, SQLite
-- **Frameworks & Libraries:** WebSockets, RESTful APIs, Anaconda (Pandas,SciPy,NumPy)
+- **Frameworks & Libraries:** WebSockets, RESTful APIs
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Authentication & Security:** JWT, OAuth, bcrypt
 - **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL Pipelines, ChatGPT, Docs(PyPi,Tailwind etc.)
