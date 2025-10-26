@@ -1,8 +1,10 @@
 # 🚀 Welcome to My GitHub Portfolio
 
-Hi, I'm **Benjamin** – a Fullstack Web and Software Developer with a focus on Typescript + Node.js + React for Frontend and Java Spring Boot for Backend and MongoDB as main Option No-SQL Database .
+Hi, I'm **Benjamin** – a Fullstack Web and Software Developer with a focus on TypeScript, Java, and Data Engineering.
 
-I'm passionate about building scalable systems, exploring data pipelines Stats and Web Related IT things, and constantly learning. This GitHub is a collection of projects, experiments, and ideas that reflect my journey in both software and data engineering. Feel free to dive in, explore, and reuse anything useful!
+I'm passionate about building usable Websites, Applications, and Data Solutions to constantly learn and evolve with it. 
+
+This GitHub is a collection of projects, experiments, and ideas that reflect my journey in both Software and Webdevelopement. Feel free to dive in.
 
 The Projects are mostly made for practical education and for personal usage.
 
@@ -11,28 +13,18 @@ The Projects are mostly made for practical education and for personal usage.
 ## 👨‍💻 Technologies I Work With
 
 - **Backend:** Node.js, Express.js, Java, Spring Boot
-- **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn
-- **Databases:** MySQL, MongoDB, SQLite
-- **Frameworks & Libraries:** WebSockets, RESTful APIs
+- **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn UI
+- **Databases:** MongoDB, SQLite, MySQL, PostgreSQL
+- **Frameworks & Libraries:** Express.js, Spring Boot, React, Redux, Chart.js
+- **Protocols & Architectural Styles:** WebSockets, RESTful APIs
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Authentication & Security:** JWT, OAuth, bcrypt
 - **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL Pipelines
-- **IDE´s:** Visual Studio Code
+- **IDEs:** Visual Studio Code
 
 ---
 
 ## 📂 Projects
-
-### 🧩 Pipeline Visualizer
-
-**A Streamlit-based tool to design, visualize, and simulate ETL pipelines using YAML configs.**
-
-- Configuration-driven pipeline design
-- DAG visualization using NetworkX + PyVis
-- Step-by-step ETL simulation with mocked processing
-- Lightweight and fully local—just run and go
-
-**Repo:** [pipeline-visualizer](https://github.com/HanseJinn/pipeline-visualizer)
 
 ---
 
@@ -46,34 +38,20 @@ The Projects are mostly made for practical education and for personal usage.
 - Real-time updates via **Socket.IO** for instant messaging  
 - Scalable backend architecture with **Docker** and **REST APIs**
 
-**Repo:** [Connex](https://github.com/HanseJinn/Connex)
+**Repo:** [Connex](https://github.com/JinnbeamHH/Connex)
 
 ---
 
-### 📈 Crypto Dashboard
+### 🧩 Pipeline Visualizer
 
-**An ETL and analytics dashboard for real-time cryptocurrency tracking.**
+**A Streamlit-based tool to design, visualize, and simulate ETL pipelines using YAML configs.**
 
-- Collects data from external APIs
-- Processes with Pandas
-- Displays analytics in a user-friendly dashboard
-- Great example of data ingestion + transformation
+- Configuration-driven pipeline design
+- DAG visualization using NetworkX + PyVis
+- Step-by-step ETL simulation with mocked processing
+- Lightweight and fully local—just run and go
 
-**Repo:** [crypto-dashboard](https://github.com/HanseJinn/crypto-dashboard)
-
----
-
-### 🏋️ Fitness Tracker App
-
-**Your personal fitness companion—currently in training mode.**
-
-- Built with React Native and Expo
-- Tracks workouts, progress, and goals
-- Uses MySQL and Redux for storage and state
-- Interactive charts powered by Chart.js
-
-**Repo:** [Fitness-Tracker-App](https://github.com/HanseJinn/Fitness-Tracker-App)
-
+**Repo:** [pipeline-visualizer](https://github.com/JinnbeamHH/pipeline-visualizer)
 
 ---
 
