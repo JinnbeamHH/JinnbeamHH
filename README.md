@@ -36,7 +36,7 @@ The Projects are mostly made for practical education and for personal usage.
 
 ---
 
-### 💬 Connex – Real-Time Communication Platform
+### 💬 Connex – Real-Time Communication Platform - Team Project
 
 **A fullstack messaging app inspired by platforms like Discord—designed for seamless real-time communication.**
 
@@ -74,17 +74,6 @@ The Projects are mostly made for practical education and for personal usage.
 
 **Repo:** [Fitness-Tracker-App](https://github.com/HanseJinn/Fitness-Tracker-App)
 
----
-
-
-## 🧪 Data Engineering + Analytics Experiments
-
-Beyond the structured projects, I've also built small tools and conducted tests around:
-
-- Custom search engines
-- File ingestion and preprocessing
-- Streamlit data tools
-- JSON/YAML-driven workflow orchestration
 
 ---
 
