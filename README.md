@@ -2,9 +2,9 @@
 
 Hi, I'm **Benjamin** – a Fullstack Web and Software Developer with a focus on TypeScript, Java, and Data Engineering.
 
-I'm passionate about building usable Websites, Applications, and Data Solutions to constantly learn and evolve with it. 
+I'm passionate about building usable Websites, Applications, and Data Solutions to constantly learn and evolve with it.
 
-This GitHub is a collection of projects, experiments, and ideas that reflect my journey in both Software and Webdevelopement. Feel free to dive in.
+This GitHub is a collection of projects, experiments, and ideas that reflect my journey in both Software- and Webdevelopement. Feel free to dive in.
 
 The Projects are mostly made for practical education and for personal usage.
 
@@ -12,7 +12,7 @@ The Projects are mostly made for practical education and for personal usage.
 
 ## 👨‍💻 Technologies I Work With
 
-- **Backend:** Node.js, Express.js, Java, Spring Boot
+- **Backend:** Node.js, Express.js, Java, Spring Boot, Maven, Python
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn UI
 - **Databases:** MongoDB, SQLite, MySQL, PostgreSQL
 - **Frameworks & Libraries:** Express.js, Spring Boot, React, Redux, Chart.js
