@@ -12,15 +12,15 @@ The Projects are mostly made for practical education and for personal usage.
 
 ## 👨‍💻 Technologies I Work With
 
-- **Backend:** Node.js, Express.js, Java, Spring Boot, Maven, Python
-- **Frontend:** React, TypeScript, HTML, CSS/SCSS, TailwindCSS, Shadcn UI
+- **Backend:** Node.js, Express.js, Java (Spring Boot), Python
+- **Frontend:** React, TypeScript, HTML, CSS/SCSS, Tailwind CSS, Shadcn UI
 - **Databases:** MongoDB, SQLite, MySQL, PostgreSQL
-- **Frameworks & Libraries:** Express.js, Spring Boot, React, Redux, Chart.js
-- **Protocols & Architectural Styles:** WebSockets, RESTful APIs
-- **Cloud & DevOps:** AWS, Docker, Kubernetes
-- **Authentication & Security:** JWT, OAuth, bcrypt
-- **Tools:** Git, GitHub, Webpack, Vite, Cypress, ETL Pipelines
-- **IDEs:** Visual Studio Code
+- **APIs & Communication:** REST, WebSockets (Socket.IO, ws), OAuth2
+- **Security:** JWT, bcrypt, Keycloak, 3scale, OWASP Top 10 (basics)
+- **Frameworks & Libraries:** Redux, Chart.js and more
+- **DevOps & Tools:** Docker, Kubernetes (basic), GitOps, ArgoCD, GitHub Actions, Webpack, Vite, Cypress
+- **Data Engineering:** ETL pipelines with Python (Pandas, Streamlit), YAML configuration
+- **Cloud & Environment:** AWS, Linux, Bash, PowerShell, Git, Jira, Postman, Insomnia, Visual Studio Code
 
 ---
 
@@ -32,7 +32,9 @@ The Projects are mostly made for practical education and for personal usage.
 
 **A fullstack messaging app inspired by platforms like Discord—designed for seamless real-time communication.**
 
-- Built with **Node.js**, **Express.js**, and **WebSockets** for live chat  
+- Built with **Node.js**, **Express.js**, and **WebSockets** for live chat and notifications  
+- **MongoDB** for efficient data storage and retrieval
+- Java **Spring Boot** backend with RESTful APIs
 - **React** frontend styled with **TailwindCSS** and **Shadcn**  
 - Features include user authentication, channels, and message history  
 - Real-time updates via **Socket.IO** for instant messaging  
