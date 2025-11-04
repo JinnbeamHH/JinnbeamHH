@@ -35,7 +35,7 @@ The Projects are mostly made for practical education and for personal usage.
 - Built with **Node.js**, **Express.js**, and **WebSockets** for live chat and notifications  
 - **MongoDB** for efficient data storage and retrieval
 - Java **Spring Boot** backend with RESTful APIs
-- **React** frontend styled with **TailwindCSS** and **Shadcn**  
+- **React** Vite Typescript frontend styled with **TailwindCSS** and **Shadcn**  
 - Features include user authentication, channels, and message history  
 - Real-time updates via **Socket.IO** for instant messaging  
 - Scalable backend architecture with **Docker** and **REST APIs**
