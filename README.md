@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Portfolio
 
-Hi, I'm **Benjamin** – a Fullstack Web and Software Developer with a focus on React TypeScript Frontend, Java Spring Backend, Data Engineering and Dev Ops with Docker and DB`s.
+Hi, I'm **Benjamin** – a Fullstack Web and Software Developer with a focus on React TypeScript Frontend, Java Spring Backend, Data Engineering, Dev Ops with Docker and DB`s.
 
 I'm passionate about building usable Websites, Applications, and Data Solutions to constantly learn and evolve with it.
 
