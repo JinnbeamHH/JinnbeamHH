@@ -6,7 +6,7 @@ I'm passionate about building usable Websites, Applications, and Data Solutions 
 
 This GitHub is a collection of projects, experiments, and ideas that reflect my journey in both Software- and Webdevelopement. Feel free to dive in.
 
-The Projects are mostly made for practical education and for personal usage, Projekts for Clients are privat.
+Projekts for Clients are privat if demanded. The Projects available are mostly made for practical education and for personal usage, Templates.
 
 ---
 
