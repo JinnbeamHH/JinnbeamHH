@@ -16,7 +16,7 @@ Projekts for Clients are privat if demanded. The Projects available are mostly m
 - **Frontend:** React, TypeScript, HTML, CSS/SCSS, Tailwind CSS, Shadcn UI
 - **Databases:** MongoDB, SQLite, MySQL, PostgreSQL
 - **APIs & Communication:** REST, WebSockets (Socket.IO, ws), OAuth2
-- **Security:** JWT, bcrypt, Keycloak, 3scale, OWASP Top 10 (basics)
+- **Security:** JWT, bcrypt, Keycloak, 3scale, OWASP Top 10 (basics), SonarCube
 - **Frameworks & Libraries:** Redux, Chart.js and more
 - **DevOps & Tools:** Docker, Kubernetes (basic), GitOps, ArgoCD, GitHub Actions, Webpack, Vite, Cypress
 - **Data Engineering:** ETL pipelines with Python (Pandas, Streamlit), YAML configuration
